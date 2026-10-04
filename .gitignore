@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/
+
+# Trained models / large files
+models/
+
+# Environment variables / API keys
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
