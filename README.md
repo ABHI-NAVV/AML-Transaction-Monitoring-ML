@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.10+"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT"></a>
-  <a href="https://github.com/ABHI-NAVV/AML-Transaction-Monitoring-ML/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+  <a href="https://github.com/navyavm123-sudo/AML-Transaction-Monitoring-ML/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
   <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg?style=flat-square" alt="Code Style: Black"></a>
   <a href="#explainable-ai-xai"><img src="https://img.shields.io/badge/XAI-SHAP%20%7C%20LIME-green?style=flat-square" alt="Explainability: SHAP & LIME"></a>
   <a href="#project-roadmap"><img src="https://img.shields.io/badge/Project%20Status-Active%20Development-yellow?style=flat-square" alt="Status"></a>
@@ -34,6 +34,7 @@
   - [Installation](#installation)
 - [Project Roadmap](#-project-roadmap)
 - [Contributing](#-contributing)
+- [Authors](#-authors)
 - [Citation & License](#-citation--license)
 
 ---
@@ -210,7 +211,7 @@ AML-Transaction-Monitoring-ML/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ABHI-NAVV/AML-Transaction-Monitoring-ML.git
+   git clone https://github.com/navyavm123-sudo/AML-Transaction-Monitoring-ML.git
    cd AML-Transaction-Monitoring-ML
    ```
 
@@ -247,13 +248,25 @@ AML-Transaction-Monitoring-ML/
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/ABHI-NAVV/AML-Transaction-Monitoring-ML/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/navyavm123-sudo/AML-Transaction-Monitoring-ML/issues).
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+---
+
+## 👥 Authors
+
+This project is developed and maintained by:
+
+| Name | GitHub |
+| :--- | :--- |
+| Navya VM | [@navyavm123-sudo](https://github.com/navyavm123-sudo) |
+
+📂 **Project Repository**: [navyavm123-sudo/AML-Transaction-Monitoring-ML](https://github.com/navyavm123-sudo/AML-Transaction-Monitoring-ML)
 
 ---
 
@@ -264,10 +277,10 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 ```bibtex
 @misc{aml_transaction_monitoring_ml,
   title={An Intelligent Anti-Money Laundering (AML) Transaction Monitoring System Using Machine Learning},
-  author={ABHI-NAVV},
+  author={Navya VM and Abhinav V,Anjana shankar},
   year={2026},
   publisher={GitHub},
   journal={GitHub repository},
-  howpublished={\url{https://github.com/ABHI-NAVV/AML-Transaction-Monitoring-ML}}
+  howpublished={\url{https://github.com/navyavm123-sudo/AML-Transaction-Monitoring-ML}}
 }
 ```
